@@ -1,1 +1,23 @@
+//Primer programación de ingeniería biomedica en Favaloro
+#include "maths.h"
+Int main()
+{
+//declaro las variables 
+Int peso;
+Float altura;
+Float imc;
+
+Printf("ingrese su peso en kg:");
+Scanf_s("%d", &peso
+
+Printf("ingrese su altura en m:");
+Scanf_s("%f", &alrura);
+
+//calculo el índice de masa corporal
+
+Imc = peso / (altura*altura);
+
+Printf("su índice de masa corporal es %2f\n", imc);
+}
+
 
